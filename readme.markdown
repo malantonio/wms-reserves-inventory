@@ -1,4 +1,4 @@
-# oclc course reserves inventory
+# wms course reserves inventory
 
 quick/messy cli script to generate a `.csv` file of items placed on reserve. parses `Item_Inventory`
 files generated weekly by OCLC.
@@ -16,7 +16,7 @@ This script parses two `Item_Inventory` files and returns stats for each item on
 
 ```bash
 cd /path/to/oclc/inventories
-git clone https://github.com/malantonio/oclc-reserves-inventory .
+git clone https://github.com/malantonio/wms-reserves-inventory .
 npm install
 ```
 
