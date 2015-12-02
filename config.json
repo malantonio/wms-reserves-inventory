@@ -1,0 +1,21 @@
+{
+  "default_start_date": "20150830",
+
+  "inventory_path": "./reports",
+
+  "oclc_symbol": "EVI",
+  
+  "reserves_shelves": [
+    "Lending Services Desk - 2 Hour Reserves",
+    "Lending Services Desk - 4 Hour Reserves",
+    "Lending Services Desk - 1 Day Reserves"
+  ],
+
+  "barcode_field": "Item Barcode",
+  "title_field": "Title or Description",
+  "count_field": "Issued Count",
+  "course_note_field": "Public Note",
+  "reserves_shelving_field": "Temp Shelving Location",
+  "oclc_num_field": "OCLC Number",
+  "format_field": "Material Format"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "oclc-reserves-inventory",
+  "version": "1.0.0",
+  "description": "cli script to scrape together reserves stats",
+  "main": "inventory.js",
+  "dependencies": {
+    "csv-parser": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Malantonio <adam.malantonio@gmail.com>",
+  "license": "MIT"
+}
